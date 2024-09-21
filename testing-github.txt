@@ -1,3 +1,5 @@
 TESTING GITHUB  
 -beljar apa itu github 
 -kegunaan dan fungsinya
+
+-apasaja yang biasanya diakukan di github
