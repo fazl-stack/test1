@@ -1,6 +1,7 @@
 -ayam ayam ayam
  *ini ayamnya tiga
   =ayam kampung
+  =ayam hitam
 -ayam ayam
  *ini ayamnya dua
   =ayam kota
