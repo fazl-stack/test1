@@ -1,7 +1,10 @@
 -ayam ayam ayam
  *ini ayamnya tiga
-  -ayam ini bulunya lebat
-  -ayam ini besar
+  =ayam kampung
+  =ayam hitam
 -ayam ayam
  *ini ayamnya dua
-  -ayam ini kecil
+  =ayam kota
+-ayam
+-bebek
+
