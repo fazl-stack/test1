@@ -1,5 +1,8 @@
 -ayam ayam ayam
  *ini ayamnya tiga
+  =ayam kampung
 -ayam ayam
  *ini ayamnya dua
-ayam
+  =ayam kota
+-ayam
+-bebek
