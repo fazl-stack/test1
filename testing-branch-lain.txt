@@ -1,5 +1,7 @@
 -ayam ayam ayam
  *ini ayamnya tiga
+  -ayam ini bulunya lebat
+  -ayam ini besar
 -ayam ayam
  *ini ayamnya dua
-ayam
+  -ayam ini kecil
