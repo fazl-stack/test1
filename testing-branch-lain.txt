@@ -1,4 +1,5 @@
 -ayam ayam ayam
  *ini ayamnya tiga
-ayam ayam
+-ayam ayam
+ *ini ayamnya dua
 ayam
